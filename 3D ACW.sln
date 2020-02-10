@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D ACW", "3D ACW\3D ACW.csproj", "{661D3B6C-417B-49B1-8CB8-DC0A054B555B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661D3B6C-417B-49B1-8CB8-DC0A054B555B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661D3B6C-417B-49B1-8CB8-DC0A054B555B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661D3B6C-417B-49B1-8CB8-DC0A054B555B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661D3B6C-417B-49B1-8CB8-DC0A054B555B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA317FD-2796-473F-9458-6C73DBDEF961}
+	EndGlobalSection
+EndGlobal

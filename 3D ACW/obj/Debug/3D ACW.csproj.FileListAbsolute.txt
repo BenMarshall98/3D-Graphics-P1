@@ -1,0 +1,42 @@
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\BoxSide_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\BoxSide_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Carpet_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Carpet_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Ceiling_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Ceiling_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Dragon_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Dragon_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Earth_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Earth_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\F16_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\F16_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Moon_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Moon_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Sun_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Teapot_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Teapot_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Wall_Normal.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Textures\Wall_Texture.jpg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Complex\Dragonhead.obj
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Complex\f16.obj
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Complex\Teapot.obj
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Primitive\cube.sjg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Primitive\side.sjg
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Models\Primitive\Sphere.obj
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\fSun.frag
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\fMaterial.frag
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\fTexture.frag
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\vSun.vert
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\vMaterial.vert
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\FirstPass\vTexture.vert
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\SecondPass\fPost.frag
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\Utility\Shaders\SecondPass\vPost.vert
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\3D ACW.exe.config
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\3D ACW.exe
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\3D ACW.pdb
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\bin\Debug\OpenTK.dll
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\obj\Debug\3D ACW.csprojAssemblyReference.cache
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\obj\Debug\3D ACW.csproj.CoreCompileInputs.cache
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\obj\Debug\3D ACW.csproj.CopyComplete
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\obj\Debug\3D ACW.exe
+C:\Temp\2016029861_3D_ACW\3D ACW\3D ACW\obj\Debug\3D ACW.pdb
